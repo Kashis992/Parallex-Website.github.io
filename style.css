@@ -1,0 +1,107 @@
+.int
+{
+    background-image: url("img3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 300px 250px;
+    background-attachment: fixed;
+    
+}
+h1{
+    text-align:center;
+    font-size:350%;
+    background-color: black;
+    color:wheat;
+    opacity: 0.5;
+    background-attachment: fixed;
+    text-shadow: 3px 3px goldenrod;
+
+}
+p{
+    text-align: center;
+    display:block;
+    font-size: 130%;
+    background-color: rgb(253, 250, 239);
+    padding: 20px 20px;
+    opacity: 0.7;
+    margin:15px;
+    
+}
+*{
+    margin:0;
+    padding:0;
+}
+.city{
+    background-image: url("snow.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 250px 250px;
+    background-attachment: fixed;
+    opacity: 0.7;
+    text-shadow: 2px 2px grey;
+  
+}
+h2{
+    text-align: center;
+    font-size:350%;
+    color:rgb(7, 3, 3);
+
+}
+#id1
+{
+    text-align: center;
+    display:block;
+    font-size: 20px;
+    background-color: black;
+    padding: 20px 20px;
+    color:white;
+    margin:0;
+}
+.town
+{
+    background-image: url("vintage.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 250px 250px;
+    background-attachment: fixed;
+    opacity: 0.7;
+
+}
+#tech
+{
+    text-align: center;
+    display:block;
+    font-size: 20px;
+    background-color:black;
+    padding: 20px 20px;
+    color:bisque;
+    margin:0;
+
+}
+.final
+{
+    background-image: url("final.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 250px 250px;
+    background-attachment: fixed;
+    opacity: 0.8;
+    
+
+
+}
+h3{
+    background-color: black;
+    color:cornsilk;
+    text-align: center;
+    font-size: 150%;
+    border-radius: 10px;
+    padding: 10px;
+    
+
+    
+}

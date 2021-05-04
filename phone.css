@@ -1,0 +1,83 @@
+h1
+{
+    font-size:230%%;
+    background-color: black;
+    padding: 10px 10px;
+    margin: auto;
+    
+    flex-direction: column;
+
+}
+p
+{
+    flex-direction: column;
+    width: 350%;
+    margin: auto;
+    font-size: 200%;
+    padding:120px;
+    letter-spacing: 3px;
+}
+h2{
+    flex-direction: column;
+    text-align: center;
+    font-size: 300%;
+    padding:0px;;
+}
+.int
+{
+    margin:0px;
+    width: 300%;
+    padding: 80%;
+    
+}
+.city
+{
+    margin: 0px;
+    width:300%;
+    padding: 80%;
+
+}
+#id1
+{
+  
+    flex-direction: column;
+    width: 350%;
+    margin: auto;
+    font-size: 200%;
+    padding:120px;
+    letter-spacing: 3px;  
+}
+.town
+{
+    margin: 0px;
+    width:280%;
+    padding: 80%;
+
+
+}
+#tech
+{
+    flex-direction: column;
+    width: 350%;
+    margin: auto;
+    font-size: 200%;
+    padding:120px;
+    letter-spacing: 3px;  
+
+}
+h3
+{
+    flex-direction: column;
+    text-align: center;
+    font-size: 300%;
+    width:100%;
+    height: 100%;
+
+}
+.final
+{
+    margin: 0px;
+    width:280%;
+    padding: 80%;
+
+}
